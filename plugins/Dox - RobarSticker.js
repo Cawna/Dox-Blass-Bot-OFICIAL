@@ -20,4 +20,5 @@ else throw 'Ocurrio un error.'
 handler.help = ['wm <packname>|<author>']
 handler.tags = ['sticker']
 handler.command = /^take|robar|wm$/i
+handler.premium = true
 export default handler
