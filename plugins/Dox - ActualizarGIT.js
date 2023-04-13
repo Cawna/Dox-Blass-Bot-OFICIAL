@@ -13,4 +13,4 @@ handler.tags = ['owner']
 handler.command = /^update|actualizar$/i
 handler.rowner = true
 export default handler
-https://github.com/Cawna/Dox-Blass-Bot-OFICIAL.git
+//https://github.com/Cawna/Dox-Blass-Bot-OFICIAL.git
