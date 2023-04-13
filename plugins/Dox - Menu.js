@@ -27,9 +27,21 @@ import fs from 'fs'   
  ₊❏ ${usedPrefix}Sticker
  ₊❏ ${usedPrefix}Sticker2
 
+ 𠔉⃝ COMANDOS DE USUARIOS PREMIUMS(👁️) 
+ ₊❏ ${usedPrefix}robar
+ ₊❏ ${usedPrefix}
+ ₊❏ ${usedPrefix}
+ ₊❏ ${usedPrefix}
+     
  𠔉⃝ COMANDOS DE CONVERTIDORES(💾) 
  ₊❏ ${usedPrefix}doxvideo
  ₊❏ ${usedPrefix}doximagen
+
+ 𠔉⃝ COMANDOS DEL CREADOR(💾) 
+ ₊❏ ${usedPrefix}actualizar 
+ ₊❏ ${usedPrefix}banuser
+ ₊❏ ${usedPrefix}doxpremium
+ ₊❏ ${usedPrefix}
  
     `.trim()    
     let buttons = [    
