@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![amo a este gato _3](https://user-images.githubusercontent.com/100887441/191080666-2134186d-f4fa-4b95-a3df-d00f27041eac.gif)
+![amo a este gato _3](https://telegra.ph/file/6f6a01aafe9c33c51e5d8.jpg)
 
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
