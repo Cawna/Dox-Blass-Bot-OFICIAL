@@ -5,7 +5,7 @@
 
 ![amo a este gato _3](https://telegra.ph/file/6f6a01aafe9c33c51e5d8.jpg)
 
-<a href="#"><img title="CREADOR-EDITOR" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CREADOR-EDITOR" src="https://img.shields.io/badge/CREADOR-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
