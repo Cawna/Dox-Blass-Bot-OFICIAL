@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<a href="https://github.com/Cawna"><img title="Autor" src="https://img.shields.io/badge/AUTOR-ALBERTO-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Cawna"><img title="Autor" src="https://img.shields.io/badge/AUTOR-TiagoCawnaD'Leggio-red.svg?style=for-the-badge&logo=github"></a>
 
 </p>
 
