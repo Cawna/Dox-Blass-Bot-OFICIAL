@@ -15,20 +15,4 @@
 
 </p>
 
-<p align="center">
 
-<a href="https://github.com/ALBERTO9883/followes"><img title="Seguidores" src="https://img.shields.io/github/followers/ALBERTO9883?color=green&style=flat-square"></a>
-
-<a href="https://github.com/ALBERTO9883/NyanCatBot-MD/stargazers/"><img title="Estrellas" src="https://img.shields.io/github/stars/ALBERTO9883/NyanCatBot-MD?color=red&style=flat-square"></a>
-
-<a href="https://github.com/ALBERTO9883/NyanCatBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ALBERTO9883/NyanCatBot-MD?color=red&style=flat-square"></a>
-
-<a href="https://github.com/ALBERTO9883/NyanCatBot-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ALBERTO9883/NyanCatBot-MD?label=Visitantes&color=blue&style=flat-square"></a>
-
-</p>
-
-<h1 align="center"></h1>
-
-  </div>
-
-  
